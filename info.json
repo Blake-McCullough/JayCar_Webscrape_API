@@ -1,0 +1,73 @@
+{
+   "Title":"USB Type-C to USB 2.0 A Male Cable 1.8m",
+   "Image":"https://www.jaycar.com.au//medias/sys_master/images/images/9677549371422/WC7900-usb-type-c-to-usb-2-0-a-male-cable-1-8mImageMain-515.jpg",
+   "Price":"9.95",
+   "PriceBreaks":[
+      {
+         "VolumePriceQuantity":"1-3",
+         "VolumePriceAmount":"$9.95"
+      },
+      {
+         "VolumePriceQuantity":"4-9",
+         "VolumePriceAmount":"$8.95"
+      },
+      {
+         "VolumePriceQuantity":"10+",
+         "VolumePriceAmount":"$7.95"
+      }
+   ],
+   "Summary":"USB 2.0 Type-C plug to USB 2.0 A plug\n1.8m Long",
+   "Description":"USB 2.0USB CUSB 2.0 Type-C plug to USB 2.0 A plug\nFor More info on USB Type C.",
+   "Specifications":[
+      {
+         "Title":"Computer / IT Lead",
+         "Data":[
+            {
+               "Title":"Input Quantity",
+               "Value":"1pc"
+            },
+            {
+               "Title":"Input Connection",
+               "Value":"Plug"
+            },
+            {
+               "Title":"Input Type",
+               "Value":"USB Type A"
+            },
+            {
+               "Title":"Output Type",
+               "Value":"USB Type C"
+            },
+            {
+               "Title":"Output Connection",
+               "Value":"Plug"
+            },
+            {
+               "Title":"Lead Type",
+               "Value":"USB 2.0"
+            },
+            {
+               "Title":"Output Quantity",
+               "Value":"1pc"
+            },
+            {
+               "Title":"Length of Lead",
+               "Value":"1.8m"
+            },
+            {
+               "Title":"Quality of lead",
+               "Value":"Standard"
+            }
+         ]
+      },
+      {
+         "Title":"Product Availability",
+         "Data":[
+            {
+               "Title":"Availability",
+               "Value":"Stocked item"
+            }
+         ]
+      }
+   ]
+}
